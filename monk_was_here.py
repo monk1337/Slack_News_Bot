@@ -3,7 +3,7 @@ import requests
 import json
 
 
-url = 'https://hooks.slack.com/services/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'
+url = 'https://hooks.slack.com/services/T8N4B1741/B8NPU0hjjjFJR/Bm3J7dDdYFDmKcYtTCwggxsj'
 
 
 a = Articles(API_KEY="25ead91356d64bf38bff3fc87bcd5d8e")
